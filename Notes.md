@@ -44,3 +44,7 @@
       1. Players - Predator or prey
       2. Eat
       3. Survive
+   
+## Movement
+
+To use a grid system or not? It would make movement and tracking location in the game easier. The Garden world doesn't have up or down, but it seems like it would be simple to add in a dimension or level attribute to track that and then continue to maintain the grid system since they wouldn't move sideways when going up or down.
